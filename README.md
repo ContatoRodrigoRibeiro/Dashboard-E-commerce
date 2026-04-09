@@ -17,14 +17,14 @@
 
 ---
 
-### 🔥 O que faz esse projeto ser foda
+### 🔥 O que faz esse projeto ser Incrível
 
 - **JOIN SQL** entre transações e dados pessoais dos clientes  
 - Tratamento completo dos dados com Python + Pandas  
 - Cálculo de **LTV (Lifetime Value)**, ticket médio e quantidade de transações por cliente  
 - Exportação limpa para CSV com nomes em português  
 - Dashboard interativo profissional no **Power BI**  
-- Feito com paixão no Rio de Janeiro 🌊
+
 
 <br>
 
